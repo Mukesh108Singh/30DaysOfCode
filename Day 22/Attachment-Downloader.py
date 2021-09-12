@@ -5,9 +5,9 @@ import ezgmail
 
 
 def attachmentdownload(resulthreads):
-    # Two Objects used in code are GmailThread and GmailMessage
-    # 1.  GmailThread - Represents conversation threads
-    # 2.  GmailMessage - Represents individual emails within Threads
+    
+    
+    
     countofresults = len(resulthreads)
     try:
         for i in range(countofresults):
