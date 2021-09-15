@@ -27,7 +27,7 @@ def sendEmail(to, sub, msg):
     # sending the mail
     s.sendmail(GMAIL_ID, to, f"Subject: {sub} \n\n {msg}")
     s.quit()
-
+    
 
 if __name__ == "__main__":
     # the datasheet where the data of the friends is stored
