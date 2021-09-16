@@ -5,6 +5,9 @@ from pygame.locals import *
 pygame.init()
 
 
+'''
+Defining gaming window size and font
+'''
 
 Window_width = 500
 Window_height = 500
