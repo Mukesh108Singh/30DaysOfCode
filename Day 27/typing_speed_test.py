@@ -1,4 +1,4 @@
-
+#TYPING_SPEED_TEST #
 
 import time
 string = "Python is an interpreted, high-level programming language"
